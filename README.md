@@ -1,20 +1,19 @@
-### Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> I'm [Prakash Pachauri](https://devmansh.github.io/)!
+### Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> I'm [Prakash Pachauri](https://prakashpachauri.github.io/)!
 
 
-[![Website](https://img.shields.io/website?label=devmansh.github.io&style=for-the-badge&url=https%3A%2F%2Fdevmansh.github.io)](https://devmansh.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itsmanoj_in?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevmansh&screen_name=Itsmanoj_in)
+
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Computer Science and Engineering UnderGraduate Student  
+## Polytechnic Computer Science Student
 
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 👨‍💻 Currently working on ***Web & Android Development***
-- 📚 Currently exploring ***Main Frame***
-- 💬 Ask me about ***Python, Django, C++***
-- 🌐 How to reach me: [Manoj Sharma](https://www.linkedin.com/in/devmansh/)
+- 👨‍💻 Currently working on ***Web development ***
+- 📚 Currently exploring ***java***
+- 💬 Ask me about ***,Html,CSS, Javascript ***
+- 🌐 How to reach me: [Prakash Pachauri](https://www.linkedin.com/in/prakash-pachauri-a48437313/)
 - ⚡ Fun fact: I love to create various ways to do a task.   
-- ⚡ Intrested In: Investments
+- ⚡ Interested In : Investments and Study
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -48,9 +47,9 @@
 
 <img align="right" height="211" width="240" alt="GIF" src="43885-laptop-working.gif" />
 
-![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
+![Prakash's Status](https://github-readme-stats.vercel.app/api?username=prakashpachauri&show_icons=true&hide_border=true)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashpachauri&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashpachauri&" alt="devmansh" /></p>
 <br/>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devmansh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prakashpachauri&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
