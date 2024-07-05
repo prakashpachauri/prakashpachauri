@@ -13,7 +13,7 @@
 - 💬 Ask me about ***,Html,CSS, Javascript ***
 - 🌐 How to reach me: [Prakash Pachauri](https://www.linkedin.com/in/prakash-pachauri-a48437313/)
 - ⚡ Fun fact: I love to create various ways to do a task.   
-- ⚡ Interested In : Investments and Study
+- ⚡ Interested In : Investments
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
